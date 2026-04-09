@@ -1,0 +1,13 @@
+{
+  "name": "ps4-controller-rumble-color-tester",
+  "version": "1.0.0",
+  "description": "A Node.js utility to test and verify PS4 controller LED colors and rumble motors functionality.",
+  "main": "test-led.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test-led.js"
+  },
+  "dependencies": {
+    "@kmamal/sdl": "^0.11.13"
+  }
+}
