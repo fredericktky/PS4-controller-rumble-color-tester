@@ -8,6 +8,7 @@
     "test": "node test-led.js"
   },
   "dependencies": {
-    "@kmamal/sdl": "^0.11.13"
+    "@kmamal/sdl": "^0.11.13",
+    "node-hid": "^3.3.0"
   }
 }
